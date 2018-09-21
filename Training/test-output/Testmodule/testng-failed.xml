@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testmodule]">
+  <test name="tetsingTest(failed)">
+    <classes>
+      <class name="Framework.BrowseTest">
+        <methods>
+          <include name="Browse"/>
+        </methods>
+      </class> <!-- Framework.BrowseTest -->
+      <class name="Framework.AppTest">
+        <methods>
+          <include name="Test"/>
+        </methods>
+      </class> <!-- Framework.AppTest -->
+    </classes>
+  </test> <!-- tetsingTest(failed) -->
+</suite> <!-- Failed suite [Testmodule] -->

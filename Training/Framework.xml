@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Testmodule">
+    <test name="tetsingTest">
+       <packages>
+
+           <package name="Framework">
+      </package>
+
+      </packages>
+   </test>
+</suite>
